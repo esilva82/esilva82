@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Eder Silva
+- 👀 I’m interested in position trade
+- 🌱 I’m currently learning position trade with machine learning
+- 💞️ I’m looking to collaborate on trade strategies
